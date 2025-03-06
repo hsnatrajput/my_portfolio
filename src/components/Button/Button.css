@@ -1,0 +1,23 @@
+.get-started {
+    background-color: #ff6600;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-right: 60px;
+    transition: background 0.3s;
+  }
+  
+  .get-started:hover {
+    background-color: #e65c00;
+  }
+  
+  .get-started a {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  
